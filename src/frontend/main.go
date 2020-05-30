@@ -47,12 +47,11 @@ const (
 
 var (
 	whitelistedCurrencies = map[string]bool{
+		"IDR": true,
 		"USD": true,
 		"EUR": true,
-		"CAD": true,
 		"JPY": true,
-		"GBP": true,
-		"TRY": true}
+		"GBP": true}
 )
 
 type ctxKeySessionID struct{}

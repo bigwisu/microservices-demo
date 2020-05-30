@@ -1,6 +1,258 @@
 {
     "products": [
         {
+            "id": "BH54HNSAKF",
+            "name": "Wayang Golek",
+            "description": "Wayang golek traditionally comes from Western Java",
+            "picture": "/static/img/products/BH54HNSAKF.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 2000000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "FQK5R8E3VO",
+            "name": "Vespa",
+            "description": "Vespa has evolved from a single model motor scooter manufactured in 1946 by Piaggio & Co. S.p.A. of Pontedera, Italy",
+            "picture": "/static/img/products/FQK5R8E3VO.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 15000000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "STJ79PN0GH",
+            "name": "Beras Kencur",
+            "description": "Beras kencur, which combines dried K. galanga powder with rice flour, is a particularly popular jamu herbal drink.",
+            "picture": "/static/img/products/STJ79PN0GH.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 200000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "QHLO0GV17K",
+            "name": "Batik Pekalongan",
+            "description": "Batik is an Indonesian technique of wax-resist dyeing applied to whole cloth. This technique originated from Java, Indonesia.",
+            "picture": "/static/img/products/QHLO0GV17K.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 2000000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "I2MOKCH5GX",
+            "name": "Songket",
+            "description": "It is hand-woven in silk or cotton, and intricately patterned with gold or silver threads. The metallic threads stand out against the background cloth to create a shimmering effect.",
+            "picture": "/static/img/products/I2MOKCH5GX.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 800000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "6BUU8TQ6NL",
+            "name": "Kain Ulos",
+            "description": "The ulos is normally worn draped over the shoulder or shoulders, or in weddings to ceremonially bind the bride and groom together.",
+            "picture": "/static/img/products/6BUU8TQ6NL.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 2000000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "FNN2X7Z031",
+            "name": "Batik Tulis",
+            "description": "The most traditional type of batik, called batik tulis (written batik), is drawn using only the canting.",
+            "picture": "/static/img/products/FNN2X7Z031.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 10000000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "P5KI8VR4SP",
+            "name": "Kain Tenun",
+            "description": "Traditional weaved testile in which two distinct sets of yarns or threads are interlaced at right angles to form a fabric.",
+            "picture": "/static/img/products/P5KI8VR4SP.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 500000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "Z17H3YHS3C",
+            "name": "Batik Tulis",
+            "description": "The most traditional type of batik, called batik tulis (written batik), is drawn using only the canting.",
+            "picture": "/static/img/products/Z17H3YHS3C.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 15000000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "N6T2C2IVR6",
+            "name": "Wayang Kulit",
+            "description": "Wayang kulit is a traditional form of puppet-shadow play originally found in the cultures of Java, Bali, and Lombok in Indonesia.",
+            "picture": "/static/img/products/N6T2C2IVR6.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 900000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "VTU830K7Q4",
+            "name": "Keris",
+            "description": "The keris is an Indonesian asymmetrical dagger with distinctive blade-patterning achieved through alternating laminations of iron and nickelous iron.",
+            "picture": "/static/img/products/VTU830K7Q4.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 50000000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "WS8MINYSW6",
+            "name": "Gong",
+            "description": "The gong's origin is likely China's Western Regions, sixth century; the term gong originated in Java.",
+            "picture": "/static/img/products/WS8MINYSW6.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 5000000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "1BV9BXLNI3",
+            "name": "Rendang",
+            "description": "Rendang is an Indonesian spicy meat dish originating from the Minangkabau region in West Sumatra, Indonesia.",
+            "picture": "/static/img/products/1BV9BXLNI3.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 100000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "5GKPO2S199",
+            "name": "Mendoan",
+            "description": "Half-cooked mendoan with much hot oil quickly so the cooking is not properly completed",
+            "picture": "/static/img/products/5GKPO2S199.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 20000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "MI8L0RS4HJ",
+            "name": "Pecel Madiun",
+            "description": "Traditional Javanese salad, consisting of mixed vegetables in a peanut sauce dressing, usually served with steamed rice, or lontong or ketupat compressed rice cakes.",
+            "picture": "/static/img/products/MI8L0RS4HJ.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 50000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "TY9AO87VD1",
+            "name": "Jamu Tradisional",
+            "description": "Jamu is a traditional medicine from Indonesia. It is predominantly a herbal medicine made from natural materials, such as roots, bark, flowers, seeds, leaves and fruits. Materials acquired from animals, such as honey, royal jelly, milk and ayam kampung eggs are also often used.",
+            "picture": "/static/img/products/TY9AO87VD1.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 50000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "ZJEJUULGIF",
+            "name": "Cikar",
+            "description": "Cow pulled vehicle carrying bricks",
+            "picture": "/static/img/products/ZJEJUULGIF.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 300000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
+            "id": "ZSD14LKF8N",
+            "name": "Durian",
+            "description": "The king of fruits emits a distinctive odour that is strong and penetrating even when the husk is intact.",
+            "picture": "/static/img/products/ZSD14LKF8N.jpg",
+            "priceUsd": {
+                "currencyCode": "IDR",
+                "units": 300000,
+                "nanos": 1000000
+            },
+            "categories": [
+                "vintage"
+            ]
+        },
+        {
             "id": "OLJCESPC7Z",
             "name": "Vintage Typewriter",
             "description": "This typewriter looks good in your living room.",
